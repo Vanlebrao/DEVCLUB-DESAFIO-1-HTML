@@ -39,19 +39,27 @@ Agradecimento aos mentores, que me auxiliam com as dúvidas e incentivos!
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/95030203/155013519-cf1dae72-c60c-4890-8538-2cd0fc9b1141.png" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://user-images.githubusercontent.com/95030203/155013519-cf1dae72-c60c-4890-8538-2cd0fc9b1141.png" width="100px;" alt="Foto do Bruno Lebrão"/><br>
         <sub>
           <b>Bruno Lebrão</b>
         </sub>
       </a>
     </td>
-    <td align="center">
+        <td align="center">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/95030203/155014127-856acd8c-4b20-4e26-8db0-1053751bd0d9.png" width="100px;" alt="Foto do Gustavo Machado "/><br>
+        <sub>
+          <b>Gustavo Machado</b>
+        </sub>
+      </a>
+    </td>
      </tr>
 </table>
 
 
-## 😄 Seja um dos contribuidores<br>
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
 ## 📝 Licença
+Copyright © 2020 - [iuricode](https://github.com/iuricode)
+
+A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste arquivo, com restrição de publicar como SEU repositório. Porém, sem restrição nos direitos de usar, copiar, modificar e mesclar.
+
+
