@@ -31,17 +31,17 @@ Agradecimento aos mentores, que me auxiliam com as dúvidas e incentivos!
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="https://user-images.githubusercontent.com/95030203/155012879-fc6991b4-5357-4675-9ef5-1dd56f795265.png" width="100px;" alt="Foto do Rodolfo Mori"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Rodolfo Mori</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://user-images.githubusercontent.com/95030203/155013519-cf1dae72-c60c-4890-8538-2cd0fc9b1141.png" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
         <sub>
-          <b>Mark Zuckerberg</b>
+          <b>Bruno Lebrão</b>
         </sub>
       </a>
     </td>
